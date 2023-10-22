@@ -1,13 +1,1 @@
-speclike
-========
-
-indexes
-=======
-
-a market
---------
-
-*   hello
-*   ![](https://assets-prd.ignimgs.com/2022/03/22/witchercomparison-1647953448163.jpg)
-
-![](https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/393487513_191144684020411_1345394949302923686_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Y3ASXlAoIIMAX9PdLcS&_nc_ht=scontent-ber1-1.xx&oh=00_AfDjD0RyQ-WO8ac9OW0NHihHJz_keygX5lpcU2iDuq3o4w&oe=65394B87)![](https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/394036975_193008083834071_5319461004562019138_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OQKMrDzPvtoAX9hH3Kj&_nc_ht=scontent-ber1-1.xx&oh=00_AfAYOFCVdCpTXLQ6fxnGMPPLXw-DcXNnYgDwyEsgTIYBRw&oe=6537FF66)
+[:type :dtd][:data [\"html\" nil nil]]<div><h1>speclike</h1><div><h1>indexes</h1><ul></ul><p>suture~index~spec~keyword~set~menge~multiple</p><p>name collisionhttps://github.com/hsestupin/html-to-md/tree/masterhttps://github.com/simon-brooke/html-to-md/blob/master/src/html_to_md/blogger_to_md.clj</p></div><div><h1>indexes</h1><div><h2>a market</h2><ul></ul>market<ul><li>hello</li></ul><img src=\"https://assets-prd.ignimgs.com/2022/03/22/witchercomparison-1647953448163.jpg\" /></div><img src=\"https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/393487513_191144684020411_1345394949302923686_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=Y3ASXlAoIIMAX9PdLcS&amp;_nc_ht=scontent-ber1-1.xx&amp;oh=00_AfDjD0RyQ-WO8ac9OW0NHihHJz_keygX5lpcU2iDuq3o4w&amp;oe=65394B87\" /><img src=\"https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/394036975_193008083834071_5319461004562019138_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=OQKMrDzPvtoAX9hH3Kj&amp;_nc_ht=scontent-ber1-1.xx&amp;oh=00_AfAYOFCVdCpTXLQ6fxnGMPPLXw-DcXNnYgDwyEsgTIYBRw&amp;oe=6537FF66\" /></div></div>
